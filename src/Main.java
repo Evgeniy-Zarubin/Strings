@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Ф.И.О. сотрудника - " + fullName);
 
         //Задача 2
-        System.out.println(fullName.toUpperCase());
+        System.out.println("Данные Ф.И.О. сотрудника для заполнения отчета - " + fullName.toUpperCase());
 
         //Задача 3
         fullName = "Иванов Семён Семёнович";
